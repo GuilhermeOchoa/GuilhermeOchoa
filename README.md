@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guilherme Ochôa graduated Electrical Engineer and Software Engineer.
-- 👀 I’m interested in ML, python, kubernetes, hadoop, software engeeniring, CI/CD
+- 👀 I’m interested in ML, python, kubernetes, software engeeniring, CI/CD
 - 🌱 I’m currently learning kubernets, typescript
 - 💞️ I’m looking to collaborate on ML, kubernets, software engeeniring
 - 📫 How to reach me guilhermeochoa@gmail.com
